@@ -1,0 +1,27 @@
+
+h1{
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+    color: whitesmoke;
+    
+}
+
+.col-sm{
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+    color: whitesmoke;  
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  #guessedwords{
+      font-weight: bold;
+      font-size: large;
+      position: absolute;
+      bottom: 40%;
+      margin-left: 150px;
+  }
